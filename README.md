@@ -1,11 +1,10 @@
 # C_language
 
-My C programs practices 
+My C programs practices <br/>
 
 
-Topics to be Covered:
+Topics to be Covered:<br/>
 1.
-2.
-3.
-4.
-5.
+<br/>
+References:
+programiz.com/c-programming/examples
